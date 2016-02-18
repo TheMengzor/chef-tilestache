@@ -20,7 +20,7 @@ default[:tilestache][:uid]                     = nil
 default[:tilestache][:gid]                     = nil
 default[:tilestache][:install_method]          = 'pip' # pip, pip_requirements or git
 default[:tilestache][:git_repository]          = 'https://github.com/mapzen/TileStache.git'
-default[:tilestache][:git_revision]            = 'master'
+default[:tilestache][:git_revision]            = 'v0.7.0'
 default[:tilestache][:source_install_dir]      = '/opt/tilestache_source'
 
 # python

@@ -12,7 +12,7 @@ default[:tilestache][:pip_requirements] = %w(
   Shapely==1.4.3
   simplejson==3.6.4
   StreetNames==0.1.5
-  git+https://github.com/mapzen/TileStache@integration-1#egg=TileStache
+  git+https://github.com/mapzen/TileStache@v0.7.0#egg=TileStache
   Werkzeug==0.9.6
   wsgiref==0.1.2
 )
